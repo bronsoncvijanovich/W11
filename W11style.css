@@ -1,0 +1,54 @@
+
+
+#nav1{
+    border: 1px solid black;
+    padding: 20px;
+    float: left;
+    margin: 10px 20px 10px 0px;
+    text-align: left;
+    height: 100%;
+}
+
+#nav1 li{
+    
+}
+
+#nav2{
+    border: 1px solid black;
+    padding: 0px;
+    margin: 20px;
+    width: 60%;
+    text-align: center;
+    display: inline-block;
+}
+
+#nav2 li{
+    position: relative;
+    width: 100%;
+    display: inline;
+    margin: 20px;
+}
+
+#myinfo{
+    float: right;
+    position: relative;
+    right: 150px;
+}
+
+#research{
+
+}
+
+footer{
+    
+}
+
+#sig{
+    float: center;
+}
+
+#sig li{
+    display: inline-block;
+    padding: 40px;
+    text-align: center;
+}
